@@ -3,7 +3,6 @@ package com.kitri.hotpicks.mypicks.dao;
 import java.util.List;
 import java.util.Map;
 
-import com.kitri.hotpicks.mypicks.model.MapContentsDto;
 import com.kitri.hotpicks.mypicks.model.PickListDto;
 import com.kitri.hotpicks.mypicks.model.ViewPickMapDto;
 

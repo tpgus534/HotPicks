@@ -12,9 +12,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.ResponseBody;
 
-import com.kitri.hotpicks.mypicks.model.MapContentsDto;
 import com.kitri.hotpicks.mypicks.model.PickListDto;
-import com.kitri.hotpicks.mypicks.model.SelectMapContentsDto;
 import com.kitri.hotpicks.mypicks.model.ViewPickMapDto;
 import com.kitri.hotpicks.mypicks.service.MypickMapService;
 

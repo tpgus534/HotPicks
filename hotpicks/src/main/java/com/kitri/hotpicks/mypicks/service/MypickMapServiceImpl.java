@@ -9,7 +9,6 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import com.kitri.hotpicks.mypicks.dao.MypickMapDao;
-import com.kitri.hotpicks.mypicks.model.MapContentsDto;
 import com.kitri.hotpicks.mypicks.model.PickListDto;
 import com.kitri.hotpicks.mypicks.model.ViewPickMapDto;
 
