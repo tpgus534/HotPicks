@@ -26,10 +26,7 @@
       <typeAlias alias="memberDto" type="com.kitri.hotpicks.member.model.MemberDto"/>
 
       <typeAlias alias="pickListDto" type="com.kitri.hotpicks.mypicks.model.PickListDto"/>
-      <typeAlias alias="mapContentsDto" type="com.kitri.hotpicks.mypicks.model.MapContentsDto"/>
-      <typeAlias alias="selectMapContentsDto" type="com.kitri.hotpicks.mypicks.model.SelectMapContentsDto"/>
       <typeAlias alias="viewPickMapDto" type="com.kitri.hotpicks.mypicks.model.ViewPickMapDto"/>
-      
       <typeAlias alias="blackReviewDto" type="com.kitri.hotpicks.contents.model.BlackReviewDto"/>
 		      
 	</typeAliases>
